@@ -15,6 +15,7 @@ builder.Services.AddDbContext<DataContext>(opt =>
 // builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+//test code
 
 // // Configure the HTTP request pipeline.
 // if (app.Environment.IsDevelopment())
